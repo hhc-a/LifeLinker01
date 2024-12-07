@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "392544937819",
+    "project_id": "life-linker",
+    "storage_bucket": "life-linker.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392544937819:android:9ab6f160ce737f9ece9c7e",
+        "android_client_info": {
+          "package_name": "tw.edu.pu.csim.s1120053.lifelinker01"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1gD2sKZve9zzsUcCqucwrZgF_zMXWu0U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
